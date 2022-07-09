@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandsinghrajawat
 - 👀 I’m interested in coding with python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working for empezar software labs pvt. ltd
 - 💞️ I’m looking to collaborate on a exciting python project
 - 📫 you can reach me at anandsinghrajawat68@gmail.com
 
