@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand Singh Rajawat.
-- 👀 I’m interested in coding in c programming.
-- 🌱 I’m currently working for empezar software labs pvt. ltd.
-- 💞️ I’m looking to collaborate on a exciting c-programming project.
+- 👀 I’m interested in coding in c and c# programming.
+- 🌱 I’m currently working for Genus Power Infrastructure pvt. ltd.
+- 💞️ I’m looking to collaborate on a exciting c#-programming project.
 - 📫 you can reach me at anandsinghrajawat68@gmail.com.
 
 <!---
